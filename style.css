@@ -14,10 +14,11 @@ padding: 24px 0;
 
 .cabeçalho-imagem{
     width: 10%;
+    
 }
 
 .cabeçalho-wallpaperstudio-item{
 display: inline-block;
-margin: 0 2px;
-font-size: 128px;
+margin: 0 5px;
+font-size: 500px;
 }
